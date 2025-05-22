@@ -6,7 +6,7 @@ Hybrid Transformer algorithm with Quantum Depth-Infused Layer . This implementat
 
 ## Algorithm Description
 
-### Architecture Components
+### Architecture Components 
 
 1. **Classical Encoder**
    - Input projection layer
