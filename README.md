@@ -1,7 +1,7 @@
 # weather-
 Hybrid Transformer algorithm with Quantum Depth-Infused Layer . This implementation bridges the gap between classical deep learning and quantum machine learning , offering enhanced feature representation capabilities 
 
-# Hybrid Transformer algorithm  with Quantum Depth-Infused Layer (QDIL)
+# Hybrid Transformer algorithm  with Quantum Depth Infused Layer 
 
 
 ## Algorithm Description
@@ -187,18 +187,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-If you use this implementation in your research, please cite:
-
-```bibtex
-@article{hybrid_transformer_qdil,
-  title={Hybrid Transformer with Quantum Depth-Infused Layer},
-  author={[Your Name]},
-  year={2024},
-  journal={GitHub Repository},
-  url={[Repository URL]}
-}
-```
-
+      
+       
 
