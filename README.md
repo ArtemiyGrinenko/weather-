@@ -1,4 +1,4 @@
-# weather-
+# Weather 
 Hybrid Transformer algorithm with Quantum Depth Infused Layer . This implementation bridges the gap between classical deep learning and quantum machine learning , offering enhanced feature representation capabilities 
 
 # Hybrid Transformer algorithm  with Quantum Depth Infused Layer 
@@ -185,5 +185,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details   
+This project is licensed under the MIT License - see the LICENSE file for details  
  
