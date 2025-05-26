@@ -14,7 +14,7 @@ Hybrid Transformer algorithm with Quantum Depth Infused Layer . This implementat
    - Feed-forward neural networks
    - Layer normalization and residual connections
 
-2. **Quantum Depth Infused Layer **
+2. **Quantum Depth Infused Layer** 
    - Progressive data encoding across quantum layers
    - Layer-wise entanglement and mixing
    - Multiple quantum templates (Strong, Basic, Random)
